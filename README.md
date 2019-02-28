@@ -1,5 +1,7 @@
 https://brianrsavage.github.io/Make-a-README/
 
+https://brianrsavage.github.io/Make-a-README/readme-resources.html
+
 # Make-a-README
 
 # Foobar
